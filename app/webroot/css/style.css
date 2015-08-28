@@ -1,10 +1,3 @@
-/*
-Template Name: Flat Lab Dashboard build with Bootstrap v3.2.0
-Template Version: 2.0
-Author: Mosaddek Hossain
-Website: http://thevectorlab.net/
-*/
-
 /* Import fonts */
 @import url(../../../fonts.googleapis.com/css@family=Open+Sans_3A400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 body { color: #777; background: #f4f4f4; font-family: 'Open Sans', sans-serif; padding: 0px !important; margin: 0px !important; font-size:13px; }
@@ -77,9 +70,9 @@ ul.sidebar-menu li a.active i { color: #99cc00; }
 .header { position: fixed; left: 0; right: 0; z-index: 1002; }
 .white-bg { background: #fff; border-bottom: 1px solid #f1f2f7; }
 .wrapper { display: inline-block; margin-top: 60px; padding: 15px; width: 100%; }
-a.logo { font-size: 21px; color: #2e2e2e; float: left; margin-top: 15px; text-transform: uppercase; }
+a.logo { font-size: 21px; color: #2e2e2e; float: left; text-transform: uppercase; }
 a.logo:hover, a.logo:focus { text-decoration: none; outline: none; }
-a.logo span { color: #99cc00; }
+a.logo img { width:175px; }
 /*notification*/
 
 #top_menu .nav > li, ul.top-menu > li { float: left; }
